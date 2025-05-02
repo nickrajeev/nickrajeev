@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Nived Rajeev
 
-<!--
-**nickrajeev/nickrajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** with a passion for uncovering insights and solving problems through data.
 
-Here are some ideas to get you started:
+## 🔍 What I’m interested in:
+- Data analysis and visualization using **Python** and **Tableau**
+- Storytelling with data and improving user experience through design thinking
+- Real-world analytics projects using public datasets and APIs
+- Building a career that blends creativity, analytics, and communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies:
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Tableau
+- SQL (beginner)
+- Adobe XD, Figma, Canva
+- Google Analytics
+
+## 🎯 Currently working on:
+- Data analytics projects for my portfolio
+- Learning advanced data visualization techniques
+- Applying for **fresher-level Data Analyst roles**
+
+## 📫 Let’s connect:
+- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nivedrajeev97/))  
+- [Tableau Public](https://public.tableau.com/app/profile/nived.rajeev/vizzes) 
+- 📧 nived.rajeev29@gmail.com
+
+---
+
+*Thanks for visiting my profile! Always open to learning, collaborating, and growing in the world of data.*
